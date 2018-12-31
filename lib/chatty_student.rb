@@ -3,10 +3,7 @@ class ChattyStudent < Student
     10.times do
       super
     end
-    
-    # 10.times do 
-    #   puts "Pick me!"
-    # end
+
   end
 
   def hello
